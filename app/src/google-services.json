@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "819267774857",
+    "firebase_url": "https://quantum-3fadb.firebaseio.com",
+    "project_id": "quantum-3fadb",
+    "storage_bucket": "quantum-3fadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819267774857:android:9688fe92e5bc81bc",
+        "android_client_info": {
+          "package_name": "com.cs442.ar1.seat_selection_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819267774857-lu27l4hp046co385rud9rug632opnnsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVnrWKxL-sfA2pLfQt6emTda2d6JY0WQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
